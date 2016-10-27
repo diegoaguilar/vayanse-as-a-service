@@ -35,6 +35,7 @@ If you would like to be included as a contributor, make sure you have a good und
 
 * Respect our ESLint rules.
 * Please use promises over callbacks.
+* Always work with pull requests for any feature of bug fix and work over dev branch.
 
 ## Deploy
 
