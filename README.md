@@ -22,4 +22,22 @@ Simply run `npm test`
 
 ## Implementation
 
+## Contribute
+
+If you find a bug or have a suggestion, please feel free to submit a PR.
+
+If you would like to be included as a contributor, make sure you have a good understanding of Slack API's features and capabilities:
+
+* [Commands](https://api.slack.com/slash-commands)
+* [Methods](https://api.slack.com/methods)
+
+### Guidelines
+
+* Respect our ESLint rules.
+* Please use promises over callbacks.
+
 ## Deploy
+
+## Contributors
+
+* [Hugo Aguirre](https://github.com/bul-ikana)
