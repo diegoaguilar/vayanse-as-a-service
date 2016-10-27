@@ -1,7 +1,5 @@
 'use strict';
 
-//xoxp-4509576999-4509577001-88085346528-4d48d7b76d0282d09e0cfc64a4994265
-
 const expect = require('chai').expect;
 const slack = require('../lib/slack');
 
