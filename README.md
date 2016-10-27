@@ -18,4 +18,8 @@ Simply run `npm test`
 
 # Usage
 
+`/vayanse a <#chanel-name> <@username1 @username2>`
+
+## Implementation
+
 ## Deploy
