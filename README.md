@@ -1,4 +1,6 @@
-# Vayanse As a Service
+
+# Vayanse As a Service [![Build Status](https://travis-ci.org/diegoaguilar/vayanse-as-a-service.svg?branch=dev)](https://travis-ci.org/diegoaguilar/vayanse-as-a-service)
+
 
 ## Motivation
 
